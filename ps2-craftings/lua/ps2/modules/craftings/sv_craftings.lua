@@ -1,3 +1,7 @@
+--[[
+This Script is made by Instinkt https://steamcommunity.com/id/InstinktServers and is under GPL-3.0 License.
+--]]
+
 util.AddNetworkString( "createNewCrafting" )
 util.AddNetworkString( "updateCraftings" )
 util.AddNetworkString( "removeCrafting" )
