@@ -5,6 +5,7 @@ With this Addon, you can let your Players Craft Items (and Points) to another It
 
 Instatllation:<br>
 Just Drag´n Drop "ps2-craftings" in your Addons Folder<br>
-Open your Console (as superadmin) and write: craftings_admin
+Open your Console (as superadmin) and write: craftings_admin<br>
 <br>
-A Crafting Tab will open. You´re good to go
+A Crafting Tab will open. 
+<br>You´re good to go
