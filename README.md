@@ -10,4 +10,4 @@ Open your Console (as superadmin) and write: craftings_admin<br>
 A Crafting Tab will open. 
 <br>You´re good to go
 
-<img>https://forum.instinkt-servers.net/index.php?attachment/1398-20190216003449-1-jpg/</img>
+![image](https://forum.instinkt-servers.net/index.php?attachment/1398-20190216003449-1-jpg)
