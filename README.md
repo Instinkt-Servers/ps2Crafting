@@ -3,7 +3,7 @@ A small Pointshop2 Crafting Script
 
 With this Addon, you can let your Players Craft Items (and Points) to another Items Ingame. Directly inside Pointshop2.
 
-Instatllation:<br>
+Installation:<br>
 Just Drag´n Drop "ps2-craftings" in your Addons Folder<br>
 Replace pointshop2\lua\ps2\client\cl_0_pointshop2.lua<br>
 with: https://pastebin.com/J32as0ap <br>
