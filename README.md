@@ -8,7 +8,6 @@ Just Drag´n Drop "ps2-craftings" in your Addons Folder<br>
 Replace pointshop2\lua\ps2\client\cl_0_pointshop2.lua<br>
 with: https://pastebin.com/J32as0ap <br>
 Open your Console (as superadmin) and write: craftings_admin<br>
-Now go to your Addons Folder.
 
 <br>
 A Crafting Tab will open. 
