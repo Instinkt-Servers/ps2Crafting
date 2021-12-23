@@ -6,7 +6,7 @@ With this Addon, you can let your Players Craft Items (and Points) to another It
 Installation:<br>
 Just Drag´n Drop "ps2-craftings" in your Addons Folder<br>
 <br>
-Go to:
+Copy (out of this branch):
 ps2-craftings\pointshop2\lua\ps2\modules\<br><br>
 Place it into: \pointshop2\lua\ps2\modules\<br>
 
