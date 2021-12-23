@@ -10,7 +10,7 @@ Copy (out of this branch):
 pointshop2\lua\ps2\modules\ <br>
 Place it into (your Server): addons\pointshop2\lua\ps2\modules\<br>
 
-Should now look like: \pointshop2\lua\ps2\modules\craftings\sh_moduke.lua<br><br>
+Should now look like: \pointshop2\lua\ps2\modules\craftings\sh_module.lua<br><br>
 Replace pointshop2\lua\ps2\client\cl_0_pointshop2.lua<br>
 with: https://pastebin.com/J32as0ap <br>
 Open your Console (as superadmin) and write: craftings_admin<br>
