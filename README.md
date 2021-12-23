@@ -7,7 +7,7 @@ Installation:<br>
 Just Drag´n Drop "ps2-craftings" in your Addons Folder<br>
 <br>
 Copy (out of this branch):
-ps2-craftings\pointshop2\lua\ps2\modules\<br><br>
+ps2-craftings\pointshop2\lua\ps2\modules\ <br>
 Place it into: \pointshop2\lua\ps2\modules\<br>
 
 Should now look like: \pointshop2\lua\ps2\modules\craftings\sh_moduke.lua<br><br>
